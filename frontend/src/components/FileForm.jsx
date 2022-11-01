@@ -32,7 +32,7 @@ function FileForm() {
         <br />
 
         <label htmlFor="image">Image</label>
-        <input type="file" name="image" id="image" />
+        <input type="file" name="file" id="image" />
         <br />
 
         <button type="submit">Create Post</button>
